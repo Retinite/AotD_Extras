@@ -1,0 +1,12 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/aotd-extras",
+  "1.19.2": {
+    "1.0.2": "Created GitHub Repo; updated mods.toml appropriately.",
+    "1.0.1": "Removed block entity effect radii bias towards (-X, -Z).",
+    "1.0.0": "Initial commit."
+  },
+  "promos": {
+    "1.19.2-latest": "1.0.2",
+    "1.19.2-recommended": "1.0.2"
+  }
+}
